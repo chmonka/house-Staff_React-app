@@ -6,10 +6,10 @@ export default function Header() {
             <div className='container'>
                 <span className='logo'>House Staff</span>
                 <nav>
-                    <ul class='list-items'>
-                        <li class='item'>Про нас</li>
-                        <li class='item'>Контакты</li>
-                        <li class='item'>Кабинет</li>
+                    <ul className='list-items'>
+                        <li className='item'>Про нас</li>
+                        <li className='item'>Контакты</li>
+                        <li className='item'>Кабинет</li>
                     </ul>
                 </nav>
             </div>
